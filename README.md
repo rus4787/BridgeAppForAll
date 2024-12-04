@@ -1,5 +1,9 @@
 # BridgeAppForAll
 
+![Uploading Logo_1.png…]()
+
+
+
 ### **Introduction**  
 The world is not the same for everyone. For some, it’s full of light and sound. For others, it’s shrouded in darkness or silence. While some struggle to find their way, others long to hear the voice of someone they love.  
 
